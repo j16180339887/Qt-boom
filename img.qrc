@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>dolan.png</file>
+    </qresource>
+</RCC>
